@@ -6,7 +6,7 @@
     "dev": "vercel dev"
   },
   "dependencies": {
-    "db-vendo-client": "^7.0.0",
+    "db-vendo-client": "^6.10.8",
     "@google/generative-ai": "^0.21.0",
     "node-fetch": "^3.3.2"
   }
