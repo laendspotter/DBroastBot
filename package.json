@@ -1,0 +1,13 @@
+{
+  "name": "db-roast-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "db-vendo-client": "^7.0.0",
+    "@google/generative-ai": "^0.21.0",
+    "node-fetch": "^3.3.2"
+  }
+}
